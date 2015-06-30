@@ -1,5 +1,5 @@
 jQuery Sparkline Plugin ChangeLog
-http://omnipotent.net/jquery.sparkline/
+https://github.com/oumind/jquery.sparkline
 
 2.1.x ???
 
