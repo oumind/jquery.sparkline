@@ -2,7 +2,7 @@
     "name": "oumind.sparkline",
     "version": "2.1.3",
     "main": [
-        "dist/jquery.sparkline.retina.js"
+        "dist/oumind.sparkline.retina.js"
     ],
     "ignore": [
         "demo",
